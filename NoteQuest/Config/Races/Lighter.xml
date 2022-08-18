@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Race xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>Lighter</Id>
+    <Name>光人</Name>
+    <Hp>16</Hp>
+    <Description>开始游戏时，你拥有3个光亮术咒语。</Description>
+    <OnGameStartCmd>
+        
+    </OnGameStartCmd>
+</Race>

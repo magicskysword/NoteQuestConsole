@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<RaceTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>RaceTable</Id>
+    <Dice>2d6</Dice>
+    <Results Result="2" Value="Slime"/>
+    <Results Result="3" Value="Human"/>
+</RaceTable>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Race xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>Slime</Id>
+    <Name>史莱姆人</Name>
+    <Hp>10</Hp>
+    <Description>如果你吞噬一个敌人的尸体，你恢复全部HP。</Description>
+    <OnGameStartCmd>
+        AddBuff(player, "Race.Slime");
+    </OnGameStartCmd>
+</Race>
